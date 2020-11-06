@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChangerApp</string>
+    <string name="change">変換</string>
+    <string name="year">年</string>
+    <string name="changeText" />
+    <string-array name="year_name">
+        <item>西暦</item>
+        <item>大正</item>
+        <item>昭和</item>
+        <item>平成</item>
+        <item>令和</item>
+    </string-array>
+</resources>
